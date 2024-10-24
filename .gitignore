@@ -1,5 +1,6 @@
 # created by virtualenv automatically
 .venv/Lib
+.venv
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Byte-compiled / optimized / DLL files
